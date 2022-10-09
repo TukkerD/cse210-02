@@ -1,13 +1,9 @@
-### This is the Cainan group hilo game. 
-- [Student check-in](#student-check-in)
+### This is the "team d" hilo game. 
 - [Purpose of the Project](#purpose-of-the-project)
 - [Game Rules](#game-rules)
 - [Object and Class documentaion](#object-and-class-documentaion)
 
-# Student check-in
-Tom Kester  
-Evan Wampler  
-Jacob Campbell  
+# Student check-in 
 Tukker De Hart  
 
 # Purpose of the Project
