@@ -9,7 +9,6 @@ class textColors:
 	MAGENTA = '\u001b[35m'
 	WHITE = '\u001b[37m'
 
-#HiLo game developed by Tom, Jake, Tukker and Evan
 class Dealer:
 	def __init__(self):
 		self.is_playing = True
